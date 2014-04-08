@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Sockettest!</string>
+    <string name="app_name">Sockettest</string>
+    <string name="txtWelcome">Welcome</string>
+    <string name="txtInfo">Please Indicate your Client Profile in order to Make an Appointment</string>
+    <string name="txtDisconnect">Disconnect</string>
+    <string name="txtConnect">Connect</string>
+    <string name="txtRegular">Regular Client</string>
+    <string name="txtPremium">Premium Client</string>
+    <string name="txtTurn">Your Turn</string>
+    <string name="txtCurrent">Current Turn</string>
+    <string name="apponame">Your Appointment</string>
+</resources>
